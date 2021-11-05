@@ -7,4 +7,4 @@
 <!---
 pjskxnhb01/pjskxnhb01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.-->
-συγκαθαίρω - μη συγκαθαίρω δε άποκαι πατημένους χρήθαι. 調和、和氣靜心
+συγκαθαίρω - μη συγκαθαίρω δε άποκαι πατημένους χρήθαι. 共淨、調和、和氣靜心
