@@ -6,3 +6,5 @@
 
 🌱 I'm looking forward to learning more about programming, including application programming, web development, and scientific programming, particularly involving data analytics and bioinformatics.
 
+👀 Interested also in information theory, stochastic modeling, machine learning, and dynamic systems.
+
