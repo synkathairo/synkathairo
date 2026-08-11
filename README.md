@@ -1,10 +1,5 @@
-👋 Hi, I’m @synkathairo
-<!--- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...-->
+I am interested in figuring out how and why things work.
 
-🌱 I'm looking forward to learning more about programming, including application programming, web development, and scientific programming, particularly involving data analytics and bioinformatics.
+Specifically I am interested in areas such as: computer science (algorithmic game theory, information theory, machine learning, learning theory, cryptography), statistics (stochastic modeling), dynamic systems (control theory, linear systems) and bioinformatics.
 
-👀 Interested also in information theory, stochastic modeling, machine learning, and dynamic systems.
-
+My programming experience includes application programming, web development, data analytics, and numerical/scientific programming, and spans languages such as Python, Julia, Rust, C++, Typescript, MATLAB, etc.
