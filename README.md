@@ -12,5 +12,5 @@ and spans languages such as Python, Julia, Rust, C++, Typescript,
 MATLAB, etc.
 ```
 
-[blog](https://synkathairo.github.io/) - [gpg](https://github.com/synkathairo.gpg) - [github](https://github.com/synkathairo) - [stackexchange](https://cs.stackexchange.com/users/189601/synkathairo) - [codeberg](https://codeberg.org/synkathairo) - [gitlab](https://gitlab.com/synkathairo) - [huggingface](https://huggingface.co/synkathairo)
+[\[blog\]](https://synkathairo.github.io/) [\[gpg\]](https://github.com/synkathairo.gpg) [\[github\]](https://github.com/synkathairo) [\[stackexchange\]](https://cs.stackexchange.com/users/189601/synkathairo) [\[codeberg\]](https://codeberg.org/synkathairo) [\[gitlab\]](https://gitlab.com/synkathairo) [\[huggingface\]](https://huggingface.co/synkathairo)
 
